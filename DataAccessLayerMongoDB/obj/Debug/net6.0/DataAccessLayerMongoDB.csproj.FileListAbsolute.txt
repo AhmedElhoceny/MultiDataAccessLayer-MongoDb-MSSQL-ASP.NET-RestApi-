@@ -1,0 +1,15 @@
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\bin\Debug\net6.0\DataAccessLayerMongoDB.deps.json
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\bin\Debug\net6.0\DataAccessLayerMongoDB.dll
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\bin\Debug\net6.0\DataAccessLayerMongoDB.pdb
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\obj\Debug\net6.0\DataAccessLayerMongoDB.csproj.AssemblyReference.cache
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\obj\Debug\net6.0\DataAccessLayerMongoDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\obj\Debug\net6.0\DataAccessLayerMongoDB.AssemblyInfoInputs.cache
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\obj\Debug\net6.0\DataAccessLayerMongoDB.AssemblyInfo.cs
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\obj\Debug\net6.0\DataAccessLayerMongoDB.csproj.CoreCompileInputs.cache
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\obj\Debug\net6.0\DataAccessLayerMongoDB.dll
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\obj\Debug\net6.0\refint\DataAccessLayerMongoDB.dll
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\obj\Debug\net6.0\DataAccessLayerMongoDB.pdb
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\obj\Debug\net6.0\ref\DataAccessLayerMongoDB.dll
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\bin\Debug\net6.0\DomainLayer.dll
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\bin\Debug\net6.0\DomainLayer.pdb
+E:\Working Technologies\Multi Data Access Layers Project\MultiDataAccessLayers\DataAccessLayerMongoDB\obj\Debug\net6.0\DataAccessLayerMongoDB.csproj.CopyComplete
